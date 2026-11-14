@@ -9,7 +9,7 @@
 *Turning data into clear insights, practical dashboards, and better decisions.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.
-linkedin.com/in/kiruthik-raam-d-v-41123640b/)
+linkedin.com/in/kiruthik-raam-d-v-41123640b)
 [![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KiruthikRaamDV?tab=repositories)
 
 </div>
