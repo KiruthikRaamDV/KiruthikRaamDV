@@ -65,7 +65,7 @@ The project includes:
 - Regional, channel, product, and category comparisons
 - Interactive slicers, product ranking, and drill-through analysis
 
-**Status:** Final dashboard polish and documentation in progress. The Power BI project will be linked here when published.
+**[Read the Excel → Power BI case study](https://github.com/KiruthikRaamDV/retail-sales-excel-powerbi-analytics)** — business insights, DAX documentation, and the journey from a 12-row Excel exercise to a four-page BI report. The downloadable Excel and Power BI files are being added separately.
 
 > **Data transparency:** The Power BI dashboard uses synthetic practice data. The historical UK Retail Sales Analysis linked above is a separate Python-based project using an external retail dataset.
 
