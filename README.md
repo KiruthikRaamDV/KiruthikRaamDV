@@ -8,8 +8,7 @@
 
 *Turning data into clear insights, practical dashboards, and better decisions.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.
-linkedin.com/in/kiruthik-raam-d-v-41123640b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiruthik-raam-d-v-41123640b)
 [![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KiruthikRaamDV?tab=repositories)
 
 </div>
@@ -84,7 +83,7 @@ I aim to make my work **reproducible, understandable, and honest about its limit
 
 I'm interested in opportunities and conversations around **data analytics, BI reporting, and applied data science**.
 
-- **LinkedIn:** [kiruthik-raam-dv](https://www.linkedin.com/in/kiruthik-raam-dv/)
+- **LinkedIn:** [kiruthik-raam-d-v-41123640b](https://www.linkedin.com/in/kiruthik-raam-d-v-41123640b)
 - **GitHub:** [KiruthikRaamDV](https://github.com/KiruthikRaamDV)
 
 <div align="center">
