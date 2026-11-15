@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/profile-wave.svg" alt="" width="100%">
+</p>
+
 <h1 align="center">Kiruthik Raam D V</h1>
 
 <p align="center">
