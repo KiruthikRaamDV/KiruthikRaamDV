@@ -36,6 +36,8 @@ The project covers data cleaning, KPIs, monthly revenue trends, sales channel co
 
 *This project uses synthetic data for learning and demonstration.*
 
+[Essex Food Hygiene Analysis](https://github.com/KiruthikRaamDV/essex-food-hygiene-analysis)
+
 ## Other projects
 
 ### [TfL Travel Trends Analysis](https://github.com/KiruthikRaamDV/tfl-travel-trends-analysis)
