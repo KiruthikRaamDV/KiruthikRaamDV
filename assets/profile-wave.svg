@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="146" viewBox="0 0 1200 146">
+  <defs>
+    <linearGradient id="water" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#17364B"/>
+      <stop offset=".52" stop-color="#21656B"/>
+      <stop offset="1" stop-color="#328775"/>
+    </linearGradient>
+    <clipPath id="wave">
+      <path d="M0 0H1200V94C1083 42 985 91 862 117C711 151 618 116 487 90C320 55 181 150 0 108Z"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#wave)">
+    <path fill="url(#water)" d="M0 0H1200V146H0Z"/>
+    <path fill="#82BDB0" fill-opacity=".22" d="M0 71C149 26 218 34 375 65C519 94 622 12 789 26C943 38 1030 98 1200 51V146H0Z"/>
+    <path fill="#B7D6C9" fill-opacity=".25" d="M0 112C183 130 264 43 423 48C584 54 685 115 816 97C973 76 1059 14 1200 66V146H0Z"/>
+    <g fill="none" stroke="#DCEBE2" stroke-width="1.3" stroke-opacity=".52">
+      <path d="M-35 46C124 5 211 16 345 45S597 83 746 48S1018 3 1235 57"/>
+      <path d="M-35 59C124 18 211 29 345 58S597 96 746 61S1018 16 1235 70"/>
+      <path d="M-35 72C124 31 211 42 345 71S597 109 746 74S1018 29 1235 83"/>
+    </g>
+    <path d="M795 123C984 96 1081 46 1210 102" fill="none" stroke="#E4BE86" stroke-width="2.5" stroke-opacity=".86"/>
+  </g>
+</svg>
