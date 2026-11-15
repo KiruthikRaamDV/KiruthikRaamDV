@@ -36,7 +36,19 @@ The project covers data cleaning, KPIs, monthly revenue trends, sales channel co
 
 *This project uses synthetic data for learning and demonstration.*
 
-[Essex Food Hygiene Analysis](https://github.com/KiruthikRaamDV/essex-food-hygiene-analysis)
+### [Essex Food Hygiene Analysis](https://github.com/KiruthikRaamDV/essex-food-hygiene-analysis)
+
+**Completed | Python · SQL · Power BI · DAX**
+
+I started in Google Colab, using Python to clean published food hygiene records and pull together data from 14 Essex councils. I used SQL to compare councils, business types and the age of published ratings, then brought those results into a four-page Power BI report.
+
+One comparison shaped the report. Other retailers had 88 businesses rated 0–2, while restaurants, cafés and canteens had 84. Once I counted how many businesses had been rated in each group, the shares came out at 4.15% and 2.53%. I kept the counts next to the percentages so readers could see where that difference came from.
+
+**15,405 businesses · 14 councils · 4 Power BI report pages**
+
+[Read the case study](https://github.com/KiruthikRaamDV/essex-food-hygiene-analysis) · [Colab notebook](https://github.com/KiruthikRaamDV/essex-food-hygiene-analysis/blob/main/notebooks/UK_Food_Hygiene_Analysis.ipynb) · [Power BI report](https://github.com/KiruthikRaamDV/essex-food-hygiene-analysis/tree/main/powerbi)
+
+*This project uses published Food Standards Agency data. The report covers the 15 November 2026 analysis snapshot.*
 
 ## Other projects
 
